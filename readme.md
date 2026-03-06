@@ -19,13 +19,13 @@ docker-compose up -d
 
 ## 🚀 Ejecutar la aplicación
 
-mvn spring-boot:run
+``` mvn spring-boot:run```
 
 ## 📨 Endpoints de prueba
 
 ## 1️⃣ Enviar mensaje como String:
 
-POST http://localhost:8080/api/v1
+``` POST http://localhost:8080/api/v1```
 
 ```Body: "Hola, este es un mensaje de prueba"```
 
