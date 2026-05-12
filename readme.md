@@ -1,4 +1,4 @@
-# Kafka Demo - Spring Boot
+# Kafka - Spring Boot
 
 Demo de **Spring Boot** con **Kafka** para enviar y recibir mensajes.
 
